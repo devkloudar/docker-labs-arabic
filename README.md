@@ -2,7 +2,7 @@
 
 # 🧠 استضافة Excalidraw محليًا باستخدام Nginx Proxy و Let's Encrypt  
 **تمت الصيانة بواسطة [devKloud بالعربي](https://github.com/devkloudar)**  
-@devkloud-arabic  
+
 
 يسمح لك هذا الإعداد باستضافة [Excalidraw](https://github.com/excalidraw/excalidraw) على الخادم الخاص بك باستخدام Docker Compose.  
 يقوم تلقائيًا بإعداد **الوكيل العكسي (Reverse Proxy)**، وشهادات **HTTPS (Let's Encrypt)**، وتوجيه النطاقات باستخدام  
