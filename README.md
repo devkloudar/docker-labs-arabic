@@ -54,7 +54,7 @@ excalidraw/
 1. **استنساخ المشروع أو نسخ الملفات:**
    ```bash
    git clone https://github.com/devkloudar/docker-labs-arabic.git
-   cd excalidraw-docker
+   cd 01-excalidraw-nginx
    ```
 
 2. **تعديل المتغيرات في ملف `docker-compose.yml`:**  
