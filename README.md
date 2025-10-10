@@ -53,7 +53,7 @@ excalidraw/
 
 1. **استنساخ المشروع أو نسخ الملفات:**
    ```bash
-   git clone https://github.com/devkloud-arabic/excalidraw-docker.git
+   git clone https://github.com/devkloudar/docker-labs-arabic.git
    cd excalidraw-docker
    ```
 
